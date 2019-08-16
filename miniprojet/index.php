@@ -91,7 +91,7 @@ include "Models/Inscription.php";
               </div>
             </div>
             <!--Header text1 end--> 
-            <img src="img2.JPG" alt="image01"></div>
+            <img src="Views/img2.JPG" alt="image01"></div>
           <div class="slide"> 
             <!--Header text2 start-->
             <div class="container hedaer-inner">
@@ -102,7 +102,7 @@ include "Models/Inscription.php";
               </div>
             </div>
             <!--Header text2 end--> 
-            <img src="img8.JPG" alt="image02">
+            <img src="Views/img8.JPG" alt="image02">
           </div>
 
           <!--background slide show end--> 
